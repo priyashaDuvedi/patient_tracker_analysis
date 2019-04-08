@@ -1,12 +1,4 @@
-PATIENT TRACKER ANALYSIS   VERSION 1.1
-
-GROUP MEMBERS ARE:
-
-PRATIK PRITAM			 761513
-PRIYASHA DUVEDI			 761556
-VIGNESH G			 760876
-SHASHI BHUSHAN SINGH	         761518
-DIPANJAN CHOWDHARY		 761334
+PATIENT TRACKER ANALYSIS   VERSION 1
 
 
 
@@ -66,7 +58,7 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->Bill Tab will guide to Bill page initially fetching all records.
 
-		->Clicking on the logo of the webpage, i.e., ‘PatientX’ will always lead back to the
+		->Clicking on the logo of the webpage, i.e., â€˜PatientXâ€™ will always lead back to the
 		  same Home Page no matter which tab we are using currently.
 
 		->Clicking on the Logout button will lead us back to the same Login/Registration page for the Admin.
@@ -85,15 +77,15 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->The search bar on the top helps us to find any record or set of records with similar data.
 
-		->Clicking on the ‘+’ button on the top will lead to a form which will ask for basic details.
+		->Clicking on the â€˜+â€™ button on the top will lead to a form which will ask for basic details.
 
-		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their ID’s.
+		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their IDâ€™s.
 
 		->In the form if we click on the Clear button the Form gets cleared and the user needs to enter the details again.
 
 		->After adding it goes back to fetching all the records.
 
-		->If the ‘Edit’ button is clicked, the complete record for the clerk is shown with Id as read-only as it is auto-generated.
+		->If the â€˜Editâ€™ button is clicked, the complete record for the clerk is shown with Id as read-only as it is auto-generated.
 
 		->After the Updating the complete table with all records of clerk are shown.
 
@@ -110,15 +102,15 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->The search bar on the top helps us to find any record or set of records with similar data.
 
-		->Clicking on the ‘+’ button on the top will lead to a form which will ask for basic details.
+		->Clicking on the â€˜+â€™ button on the top will lead to a form which will ask for basic details.
 
-		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their ID’s.
+		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their IDâ€™s.
 
 		->In the form if we click on the Clear button the Form gets cleared and the user needs to enter the details again.
 
 		->After adding it goes back to fetching all the records.
 
-		->If the ‘Edit’ button is clicked, the complete record for the Doctor is shown with Id as read-only as it is auto-generated.
+		->If the â€˜Editâ€™ button is clicked, the complete record for the Doctor is shown with Id as read-only as it is auto-generated.
 
 		->After the Updating the complete table with all records of Doctor are shown.
 
@@ -136,15 +128,15 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->The search bar on the top helps us to find any record or set of records with similar data.
 
-		->Clicking on the ‘+’ button on the top will lead to a form which will ask for basic details.
+		->Clicking on the â€˜+â€™ button on the top will lead to a form which will ask for basic details.
 
-		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their ID’s.
+		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their IDâ€™s.
 
 		->In the form if we click on the Clear button the Form gets cleared and the user needs to enter the details again.
 
 		->After adding it goes back to fetching all the records.
 
-		->If the ‘Edit’ button is clicked, the complete record for the Patient is shown with Id as read-only as it is auto-generated.
+		->If the â€˜Editâ€™ button is clicked, the complete record for the Patient is shown with Id as read-only as it is auto-generated.
 
 		->After the Updating the complete table with all records of Patient are shown.
 
@@ -161,15 +153,15 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->The search bar on the top helps us to find any record or set of records with similar data.
 
-		->Clicking on the ‘+’ button on the top will lead to a form which will ask for basic details.
+		->Clicking on the â€˜+â€™ button on the top will lead to a form which will ask for basic details.
 
-		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their ID’s.
+		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their IDâ€™s.
 
 		->In the form if we click on the Clear button the Form gets cleared and the user needs to enter the details again.
 
 		->After adding it goes back to fetching all the records.
 
-		->If the ‘Edit’ button is clicked, the complete record for the Medicine is shown with Id as read-only as it is auto-generated.
+		->If the â€˜Editâ€™ button is clicked, the complete record for the Medicine is shown with Id as read-only as it is auto-generated.
 
 		->After the Updating the complete table with all records of Medicine are shown.
 
@@ -185,19 +177,19 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->As soon as the Prescription Tab is clicked it leads us to the Prescription Page initially fetching all present records in the Table.
 
-		->It is fetching PatientID from the Patient records and DoctorID from the Doctor Records and MedicineID’s from Medicine Records.
+		->It is fetching PatientID from the Patient records and DoctorID from the Doctor Records and MedicineIDâ€™s from Medicine Records.
 
 		->The search bar on the top helps us to find any record or set of records with similar data.
 
-		->Clicking on the ‘+’ button on the top will lead to a form which will ask for basic details.
+		->Clicking on the â€˜+â€™ button on the top will lead to a form which will ask for basic details.
 
-		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their ID’s.
+		->In the form if we click on the Add button the details get added as a record into the table and a message is displayed along with their IDâ€™s.
 
 		->In the form if we click on the Clear button the Form gets cleared and the user needs to enter the details again.
 
 		->After adding it goes back to fetching all the records.
 
-		->If the ‘Edit’ button is clicked, the complete record for the Prescription is shown with Id as read-only as it is auto-generated.
+		->If the â€˜Editâ€™ button is clicked, the complete record for the Prescription is shown with Id as read-only as it is auto-generated.
 
 		->After the Updating the complete table with all records of Prescription are shown.
 
@@ -216,7 +208,7 @@ have followed the Spring MVC Architecture for the creation of this entire projec
 
 		->The search bar on the top helps us to find any record or set of records with similar data.
 
-		->The generate bill icon on the right most column of the bill table prints “Bill”.
+		->The generate bill icon on the right most column of the bill table prints â€œBillâ€.
 
 
 
